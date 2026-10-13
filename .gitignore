@@ -3,3 +3,6 @@ _site/
 .jekyll-cache/
 .bundle/
 vendor/
+# Python virtual environments
+.venv/
+venv/
